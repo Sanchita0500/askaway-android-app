@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832352941296",
+    "project_id": "askaway-c9a2d",
+    "storage_bucket": "askaway-c9a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832352941296:android:e8993c30f59e557368be35",
+        "android_client_info": {
+          "package_name": "com.example.askaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832352941296-utmflf83pkurq50mmsqlkb7qjphu1p2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHozCuxG8T8mVDvOUDGlw3ss4FO7mZskA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832352941296-utmflf83pkurq50mmsqlkb7qjphu1p2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

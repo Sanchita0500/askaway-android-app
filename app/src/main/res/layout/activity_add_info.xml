@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_gradient"
+    tools:context=".Admin.AddInfoActivity">
+
+    <TextView
+        android:id="@+id/add_faculty"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_marginTop="200dp"
+        android:text="Add Faculty"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:background="@drawable/display_text"
+        android:textColor="@android:color/background_light"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp" />
+
+    <TextView
+        android:id="@+id/remove_faculty"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_marginTop="20dp"
+        android:text="Remove Faculty"
+        android:layout_below="@id/add_faculty"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:background="@drawable/display_text"
+        android:textColor="@android:color/background_light"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:background="@drawable/buttons"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"
+        android:textAllCaps="false"
+        android:layout_below="@id/remove_faculty"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+
+</RelativeLayout>
