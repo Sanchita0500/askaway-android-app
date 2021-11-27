@@ -1,7 +1,5 @@
 # AskAway
 
-[TOC]
-
 ## Introduction
 
 AskAway is like a doubt forum where students can ask their doubts to professors personally or to everyone in general. Doubt solving is a major issue during online semesters as we ask each other anything through whatsapp only so if a question is asked and answered, referring it next time requires a lot of searching and scrolling.
