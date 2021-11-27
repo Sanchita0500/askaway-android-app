@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AskAway is like a doubt forum where students can ask their doubts to professors personally or to everyone in general. Doubt solving is a major issue during online semesters as we ask each other anything through whatsapp only so if a question is asked and answered, referring it next time requires a lot of searching and scrolling.
+AskAway is a doubt forum where students can ask their doubts to professors personally or to everyone in general. Doubt solving is a major issue during online semesters as we ask each other anything through whatsapp only so if a question is asked and answered, referring it next time requires a lot of searching and scrolling.
 
 My app is aimed at solving this issue particularly. Sometimes students feel shy in asking questions so my app also has a feature of asking questions anonymously to a professor or to everyone in general. All the answered questions are visible on home screen so that everyone can benefit and the professor's don't have to answer the same questions for everyone individually.
 
